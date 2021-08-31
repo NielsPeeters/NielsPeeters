@@ -24,7 +24,7 @@ My current status in short:
 
 <!-- PWA -->
 <span style="background-color:white; color:black; padding: 4px 10px; font-weight:bold; display:inline-grid; grid-gap: 4px; grid-template-columns: auto auto; grid-template-rows: auto; align-items:center; height: 22px">
-  <img src="assets/icons/PWA.svg" height="18"/>
+  <img src="assets/icons/pwa.svg" height="18"/>
 </span>
 
 <!-- JS -->
@@ -149,13 +149,13 @@ My current status in short:
 
 <!-- Heroku -->
 <span style="background-color:white; color:black; padding: 4px 10px; font-weight:bold; display:inline-grid; grid-gap: 4px; grid-template-columns: auto auto; grid-template-rows: auto; align-items:center;">
-  <img src="assets/icons/Heroku.svg" height="18"/>
+  <img src="assets/icons/heroku.svg" height="18"/>
   Heroku
 </span>
 
 <!-- Netlify -->
 <span style="background-color:white; color:black; padding: 4px 10px; font-weight:bold; display:inline-grid; grid-gap: 4px; grid-template-columns: auto auto; grid-template-rows: auto; align-items:center;">
-  <img src="assets/icons/Netlify.svg" height="18"/>
+  <img src="assets/icons/netlify.svg" height="18"/>
   Netlify
 </span>
 
@@ -187,7 +187,7 @@ My current status in short:
 
 <!-- Jira -->
 <span style="background-color:white; color:black; padding: 4px 10px; font-weight:bold; display:inline-grid; grid-gap: 4px; grid-template-columns: auto auto; grid-template-rows: auto; align-items:center;">
-  <img src="assets/icons/Jira.svg" height="18"/>
+  <img src="assets/icons/jira.svg" height="18"/>
   Jira
 </span>
 
