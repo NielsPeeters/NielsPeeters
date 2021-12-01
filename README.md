@@ -4,7 +4,7 @@ I am **Niels**, I am a Front-end/Mobile developer who is also heavily in love wi
 
 My current status in short:
 
-- 🧳 Working @[Euricom](euri.com)
+- 🧳 Helping @[Adesa](adesa.eu) selling cars
 - 🎉 Sideproject: @[Kwotet](kwotet.com)
 - 🌱 I’m currently learning `['Advanced Typescript', 'Scrum cert']`
 - 💡 Main interests are UX design with Front-end / Mobile development
